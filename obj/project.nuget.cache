@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gE6cLDDCDnZYngpPW4USOA4Xv0Tq4mXB5shgSeCfCKHKxr23QvEaGYHinimZcpFj8I49rBzb03qmTCoXI+Myw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub Repo\\asp.net\\FirstWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chand\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
